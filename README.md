@@ -11,18 +11,18 @@ The method should have the following parameter(s):
 - An array of integers
 - An integer (the number of rotations)
 
-#####Input Format:
+##### Input Format:
 The first line contains two space-separated integers:
 - n: size of tha array
 - d: number of left rotations
 The second line contains  space-separated integers .
 
-#####Constraints:
+##### Constraints:
 - 1 <= n <= 10^5
 - 1 <= d <= n
 - 1 <= a[i] <= 10^6
 
-#####Output Format:
+##### Output Format:
 Print a single line of  space-separated integers denoting the final state of the array after performing left rotations.
 
 **Sample Input**:

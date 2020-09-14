@@ -26,10 +26,13 @@ The second line contains  space-separated integers .
 Print a single line of  space-separated integers denoting the final state of the array after performing left rotations.
 
 **Sample Input**:
+
 5 4
+
 1 2 3 4 5
 
 **Sample Output**:
+
 5 1 2 3 4
 
 You can find a link to the kata [here](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays).
